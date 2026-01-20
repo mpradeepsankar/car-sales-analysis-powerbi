@@ -27,6 +27,14 @@ This project analyzes car sales data to identify sales trends, top-performing br
 - Sales peak months and low seasons
 - Revenue contribution by region
 
+ ## 📷 Dashboard Screenshots
+
+<p align="center">
+  <img src="images/Overview%20Dashboard.png" width="45%" />
+  <img src="images/Detailed%20Dashboard.png" width="45%" />
+</p>
+
+
 ##  Author
 Pradeep Sankar M  
  Email: mpradeepsankar@gmail.com  
